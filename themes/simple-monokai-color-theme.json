@@ -695,7 +695,7 @@
 				"entity.name.function.templated"
 			],
 			"settings": {
-				"foreground": "#919288"
+				"foreground": "#C0C1B5"
 			}
 		},
 		
@@ -764,7 +764,7 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#919288"
+				"foreground": "#C0C1B5"
 			}
 		},
 		
@@ -840,7 +840,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#919288"
+				"foreground": "#C0C1B5"
 			}
 		},
 		
@@ -1074,7 +1074,7 @@
 				"support.function.builtin.python"
 			],
 			"settings": {
-				"foreground": "#919288"
+				"foreground": "#C0C1B5"
 			}
 		},
 		
@@ -1602,7 +1602,7 @@
 		{
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#919288"
+				"foreground": "#C0C1B5"
 			}
 		},
         
@@ -1739,7 +1739,7 @@
 		{
 			"scope": "variable.function",
 			"settings": {
-				"foreground": "#919288"
+				"foreground": "#C0C1B5"
 			}
 		},
         

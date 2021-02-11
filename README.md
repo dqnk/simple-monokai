@@ -1,3 +1,3 @@
 # README
 
-This is the colorscheme Monokai with less bright colours.
+This is the colorscheme Monokai with less bright colours for VSCode.

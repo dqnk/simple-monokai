@@ -709,7 +709,6 @@
 			"scope": [
 				"entity.name.type.class.templated",
 				"entity.name.type.class.generic",
-				"entity.name.type.namespace"
 			],
 			"settings": {
 				"foreground": "#66D9EF"
@@ -750,7 +749,8 @@
 		{
 			"scope": "entity.name.namespace",
 			"settings": {
-				"foreground": "#FDFFF1"
+				"foreground": "#919288",
+				"fontStyle": "italic"
 			}
 		},
 		{

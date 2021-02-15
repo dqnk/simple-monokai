@@ -1026,7 +1026,9 @@
 		},
 		{
 			"scope": [
-				"string.quoted.double.cpp"
+				"string.quoted.double.cpp",
+				"punctuation.definition.string.begin.cpp",
+				"punctuation.definition.string.end.cpp"
 			],
 			"settings": {
 				"foreground": "#E6DB74",
